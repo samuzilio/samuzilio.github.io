@@ -1,0 +1,71 @@
+/* styles.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #a8e6cf, #ff8b94);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Fraunces", serif;
+}
+
+.about-container {
+  text-align: center;
+}
+
+.contacts-content {
+  margin-top: 80px;
+}
+
+p {
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 0.5em;
+}
+
+.spatial-data-scientist {
+  font-family: "Space Mono", monospace;
+  font-weight: 600;
+  font-size: 20px;
+  word-spacing: -7px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.emoji {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.tooltip-text {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  bottom: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px 10px;
+  border-radius: 3px;
+  transition: opacity 0.2s ease-in-out;
+  font-size: 20px;
+  font-family: "Fraunces", serif;
+  font-weight: 300;
+}
+
+.emoji:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
