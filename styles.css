@@ -19,7 +19,7 @@ body {
 }
 
 .contacts-content {
-  margin-top: 80px;
+  margin-top: 25px;
 }
 
 p {
@@ -68,4 +68,16 @@ a:hover {
 .emoji:hover .tooltip-text {
   visibility: visible;
   opacity: 1;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-text {
+  font-size: 16px;
 }
