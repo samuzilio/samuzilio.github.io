@@ -1,0 +1,10 @@
+/* style_for_md.css */
+
+h1 {
+    border-bottom: none;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
