@@ -1,1 +1,1 @@
-Ceci n'est pas une README
+Ceci n'est pas une README.
