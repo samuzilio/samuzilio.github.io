@@ -1,8 +1,8 @@
 # Curriculum Vitae
 
 My name is Samuele.  
-I'm an Italian spatial data scientist passionate about GIS & programming ...  
-I'm currently employed at <u>[Eurac Research](https://www.eurac.edu/en/people/samuele-zilio)</u> ....<br><br>
+I'm an Italian spatial data scientist passionate about GIS & programming, Python and SQL but I'm always looking to experiment with new languages.  
+Currently, I work at <u>[Eurac Research](https://www.eurac.edu/en/people/samuele-zilio)</u> covering ...<br><br>
 The best way to get a hold of me is via email: <u>samuelezilio95@gmail.com</u>.  
 You can also find me on GitHub: <u>https://github.com/samuzilio</u>.
 
