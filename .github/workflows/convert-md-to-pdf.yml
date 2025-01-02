@@ -20,8 +20,9 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          pandoc curriculum_vitae.md -o src/curriculum_vitae.pdf --pdf-engine=xelatex --css=css/style_for_md.css
-            -V pagestyle=empty
+          pandoc curriculum_vitae.md -o src/curriculum_vitae.pdf --pdf-engine=xelatex \
+            --css=css/style_for_md.css \
+            "-V" "pagestyle=empty"
 
       - name: Commit and push PDF
         run: |
