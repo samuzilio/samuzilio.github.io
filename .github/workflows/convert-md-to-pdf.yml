@@ -18,7 +18,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex
 
-      - name: Convert Markdown to 
+      - name: Convert Markdown to PDF
         run: |
           pandoc curriculum_vitae.md -o src/curriculum_vitae.pdf --pdf-engine=xelatex --css=css/style_for_md.css
 
