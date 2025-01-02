@@ -1,5 +1,15 @@
 /* css/style_for_md.css */
 
+body {
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
 h1 {
     border-bottom: none;
     margin-bottom: 270px;
@@ -9,3 +19,9 @@ a {
     color: black;
     text-decoration: underline;
 }
+
+p {
+    margin-bottom: 1em;
+}
+
+/* Add more default styles as needed */
