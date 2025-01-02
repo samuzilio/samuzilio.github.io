@@ -1,4 +1,4 @@
-name: Export to PDF
+name: Export CV as .pdf
 
 on:
   push:
