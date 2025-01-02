@@ -1,11 +1,1 @@
 /* css/style_for_md.css */
-
-body {
-    font-family: 'Times New Roman', serif;
-    line-height: 1.6;
-    margin-left: 0.25in;  /* Set smaller left margin */
-    margin-right: 0.25in; /* Set smaller right margin */
-    margin-top: 40px;     /* Top margin to keep content from touching the top */
-    margin-bottom: 30px;  /* Bottom margin for spacing */
-    padding: 0;
-}
