@@ -3,6 +3,8 @@
 body {
     font-family: 'Times New Roman', serif;
     line-height: 1.6;
+    margin-left: 0.5in; /* Shortened left margin */
+    margin-right: 0.5in; /* Shortened right margin */
 }
 
 h1, h2, h3 {
