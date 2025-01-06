@@ -6,11 +6,7 @@ Currently, I work at <u>[Eurac Research](https://www.eurac.edu/en/people/samuele
 
 The best way to get a hold of me is via email: <u>samuelezilio95@gmail.com</u>.  
 You can also find me on GitHub: <u>https://github.com/samuzilio</u>.
-  
-  
-  
-  
-  
+
 ## Work Experience
 
 *06/2024 – Ongoing*  
