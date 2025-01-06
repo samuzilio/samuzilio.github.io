@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-\vspace{27em}
+\vspace{26em}
 
 My name is Samuele.  
 I'm an Italian spatial data scientist passionate about GIS & programming.  
