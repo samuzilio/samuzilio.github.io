@@ -1,4 +1,4 @@
-# \vfontsize{20}{24}\selectfont Curriculum Vitae
+# Curriculum Vitae
 
 \vspace{26em}
 
