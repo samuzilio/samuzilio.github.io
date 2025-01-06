@@ -11,6 +11,11 @@ You can also find me on GitHub: <u>https://github.com/samuzilio</u>.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Work Experience
 
 *06/2024 – Ongoing*  
