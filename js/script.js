@@ -5,7 +5,7 @@ function getRandomColor() {
 }
 
 function changeBackgroundColor(event) {
-  if (event.target.tagName.toLowerCase() === 'a') {
+  if (event.target.tagName.toLowerCase() === 'a' || event.target.closest('.emoji')) {
     return;
   }
 
