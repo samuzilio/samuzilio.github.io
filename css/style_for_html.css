@@ -28,13 +28,6 @@ p {
   margin-top: 0.5em;
 }
 
-.spatial-data-scientist {
-  font-family: "Space Mono", monospace;
-  font-weight: 600;
-  font-size: 20px;
-  word-spacing: -7px;
-}
-
 a {
   color: inherit;
   text-decoration: none;
