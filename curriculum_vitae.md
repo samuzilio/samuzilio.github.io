@@ -30,7 +30,7 @@ Eurac Research, Bolzano (Italy)
 ## Education
 
 *2017 – 2020*  
-**MSc in Urban and Regional Planning**  
+**MSc in Planning and Policies for Cities, Environment and Landscape**  
 IUAV, Venice (Italy) + Universidade de Lisboa, Lisbon (Portugal)  
 
 *2014 – 2017*  
