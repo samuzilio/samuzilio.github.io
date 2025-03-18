@@ -58,6 +58,18 @@ a:hover {
   font-weight: 300;
 }
 
+.tooltip-text .it {
+  color: green;
+}
+
+.tooltip-text .ali {
+  color: white;
+}
+
+.tooltip-text .an {
+  color: red;
+}
+
 .emoji:hover .tooltip-text {
   visibility: visible;
   opacity: 1;
