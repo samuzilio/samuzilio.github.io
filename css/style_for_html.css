@@ -59,21 +59,15 @@ a:hover {
 }
 
 .tooltip-text .it {
-  -webkit-text-stroke-width: .5px;
-  -webkit-text-stroke-color: green;
-  -webkit-text-fill-color: white;
+  text-shadow: 0.1px 0px 0 green, -0.1px 0px 0 green, 0px 0.1px 0 green, 0px -0.1px 0 green;
 }
 
 .tooltip-text .ali {
-  -webkit-text-stroke-width: .5px;
-  -webkit-text-stroke-color: black;
-  -webkit-text-fill-color: white;
+  text-shadow: 0.1px 0px 0 black, -0.1px 0px 0 black, 0px 0.1px 0 black, 0px -0.1px 0 black;
 }
 
 .tooltip-text .an {
-  -webkit-text-stroke-width: .5px;
-  -webkit-text-stroke-color: red;
-  -webkit-text-fill-color: white;
+  text-shadow: 0.1px 0px 0 red, -0.1px 0px 0 red, 0px 0.1px 0 red, 0px -0.1px 0 red;
 }
 
 .emoji:hover .tooltip-text {
