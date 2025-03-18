@@ -59,18 +59,21 @@ a:hover {
 }
 
 .tooltip-text .it {
+  -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: green;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
 }
 
 .tooltip-text .ali {
+  -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
 }
 
 .tooltip-text .an {
+  -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: red;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
 }
 
 .emoji:hover .tooltip-text {
