@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #FFFFFF;
+  background: #000000;
   color: black;
   display: flex;
   justify-content: center;
@@ -59,15 +59,15 @@ a:hover {
 }
 
 .tooltip-text .it {
-  text-shadow: 0.1px 0px 0 green, -0.1px 0px 0 green, 0px 0.1px 0 green, 0px -0.1px 0 green;
+  color: green;
 }
 
 .tooltip-text .ali {
-  text-shadow: 0.1px 0px 0 black, -0.1px 0px 0 black, 0px 0.1px 0 black, 0px -0.1px 0 black;
+  color: white;
 }
 
 .tooltip-text .an {
-  text-shadow: 0.1px 0px 0 red, -0.1px 0px 0 red, 0px 0.1px 0 red, 0px -0.1px 0 red;
+  color: red;
 }
 
 .emoji:hover .tooltip-text {
