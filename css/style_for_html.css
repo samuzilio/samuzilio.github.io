@@ -60,14 +60,17 @@ a:hover {
 
 .tooltip-text .it {
   -webkit-text-stroke-color: green;
+  -webkit-text-fill-color: transparent;
 }
 
 .tooltip-text .ali {
-  color: white;
+  -webkit-text-stroke-color: black;
+  -webkit-text-fill-color: transparent;
 }
 
 .tooltip-text .an {
   -webkit-text-stroke-color: red;
+  -webkit-text-fill-color: transparent;
 }
 
 .emoji:hover .tooltip-text {
