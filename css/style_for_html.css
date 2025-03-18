@@ -59,7 +59,7 @@ a:hover {
 }
 
 .tooltip-text .it {
-  color: green;
+  -webkit-text-stroke-color: green;
 }
 
 .tooltip-text .ali {
@@ -67,7 +67,7 @@ a:hover {
 }
 
 .tooltip-text .an {
-  color: red;
+  -webkit-text-stroke-color: red;
 }
 
 .emoji:hover .tooltip-text {
