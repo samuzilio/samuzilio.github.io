@@ -22,7 +22,7 @@ p {
     font-weight: 300;
     font-size: 20px;
     margin-top: 0.5em;
-  }
+}
 
 .underline {
     text-decoration: underline;
@@ -31,48 +31,48 @@ p {
 a {
     color: inherit;
     text-decoration: none;
-  }
-  
+}
+
 a:hover {
-text-decoration: underline;
+    text-decoration: underline;
 }
 
 .emoji {
-position: relative;
-display: inline-block;
-cursor: pointer;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
 }
 
 .tooltip-text {
-visibility: hidden;
-opacity: 0;
-position: absolute;
-bottom: 80%;
-left: 50%;
-transform: translateX(-50%);
-padding: 5px 10px;
-border-radius: 3px;
-transition: opacity 0.2s ease-in-out;
-font-size: 20px;
-font-family: "VT323", monospace;
-font-weight: 300;
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    bottom: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 5px 10px;
+    border-radius: 3px;
+    transition: opacity 0.2s ease-in-out;
+    font-size: 20px;
+    font-family: "VT323", monospace;
+    font-weight: 300;
 }
 
 .tooltip-text .it {
-color: green;
+    color: green;
 }
 
 .tooltip-text .ali {
-color: white;
+    color: white;
 }
 
 .tooltip-text .an {
-color: red;
+    color: red;
 }
 
 .emoji:hover .tooltip-text {
-visibility: visible;
-opacity: 1;
+    visibility: visible;
+    opacity: 1;
 }
 
 footer {
@@ -81,8 +81,8 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-  }
-  
+}
+
 .footer-text {
-font-size: 16px;
+    font-size: 16px;
 }
