@@ -3,6 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body {
+    margin: 0;
+    padding: 0;
     text-align: center;
     background-color: black;
     color: white;
@@ -12,10 +14,11 @@ body {
 }
 
 .container {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    width: 100vw;
 }
 
 p {
@@ -76,13 +79,21 @@ a:hover {
 }
 
 footer {
-    text-align: center;
-    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
+    text-align: center;
+    color: white;
 }
 
 .footer-text {
     font-size: 16px;
+}
+
+#shooter {
+    position: fixed;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
 }
