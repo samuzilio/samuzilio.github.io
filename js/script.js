@@ -26,18 +26,24 @@ class Player {
 
     draw() {
         ctx.fillStyle = this.color;
-        ctx.fillRect(this.x, this.y, this.width, this.height);
-
+    
+        ctx.fillRect(this.x + 6, this.y, 8, 4);
+        ctx.fillRect(this.x + 4, this.y + 4, 12, 4);
+        ctx.fillRect(this.x, this.y + 8, 20, 4);
+    
+        ctx.fillRect(this.x, this.y + 4, 4, 4);
+        ctx.fillRect(this.x + 16, this.y + 4, 4, 4);
+    
         const stopBeforetarget = textY + 40;
-
+    
         this.bullets.forEach((bullet, index) => {
             bullet.y -= bullet.speed;
-
+    
             if (!highlighttarget && bullet.y > stopBeforetarget) {
                 highlighttarget = true;
                 targetElement.classList.add("underline");
             }
-
+    
             if (bullet.y > stopBeforetarget) {
                 ctx.fillStyle = bullet.color;
                 ctx.fillRect(bullet.x, bullet.y, bullet.width, bullet.height);
@@ -46,7 +52,7 @@ class Player {
             }
         });
     }
-
+    
     update() {
         if (this.startMovement) {
             if (this.x < this.targetX) {
