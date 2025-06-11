@@ -34,7 +34,6 @@ class Player {
         ctx.fillRect(this.x, this.y + 4, 4, 4);
         ctx.fillRect(this.x + 16, this.y + 4, 4, 4);
     
-        // const stopBeforetarget = textY + 50;
         const isMobile = window.innerWidth <= 768;
         const stopBeforetarget = textY + (isMobile ? 60 : 40);
     
