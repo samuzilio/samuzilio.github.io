@@ -34,7 +34,8 @@ class Player {
         ctx.fillRect(this.x, this.y + 4, 4, 4);
         ctx.fillRect(this.x + 16, this.y + 4, 4, 4);
     
-        const stopBeforetarget = textY + 30;
+        const stopBeforetarget = textY + 50;
+        // const stopBeforetarget = textY + 40;
     
         this.bullets.forEach((bullet, index) => {
             bullet.y -= bullet.speed;
