@@ -35,7 +35,7 @@ class Player {
         ctx.fillRect(this.x + 16, this.y + 4, 4, 4);
     
         const isMobile = window.innerWidth <= 768;
-        const stopBeforetarget = textY + (isMobile ? 60 : 39);
+        const stopBeforetarget = textY + (isMobile ? 59.5 : 39.5);
     
         this.bullets.forEach((bullet, index) => {
             bullet.y -= bullet.speed;
