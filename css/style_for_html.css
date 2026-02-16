@@ -1,7 +1,5 @@
 /* css/style_for_html.css */
 
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
-
 body {
     margin: 0;
     padding: 0;
@@ -90,3 +88,4 @@ a:hover {
     transform: translate(-50%, -50%);
     z-index: -1;
 }
+
