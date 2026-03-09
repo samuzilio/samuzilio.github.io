@@ -1,11 +1,9 @@
 # Curriculum Vitae
 
-\vfill
-
-\begin{center}
+\vspace{10em}
 
 My name is Samuele.  
-I'm an Italian spatial data scientist passionate about GIS \& programming.  
+I'm an Italian spatial data scientist passionate about GIS & programming.  
 
 Currently, I work at <u>[Eurac Research](https://www.eurac.edu/en/people/samuele-zilio)</u> providing scientific consultancy to public authorities in the field of urban and regional planning for the clean energy transition. My main focus is on developing and maintaining decision support system tools to assist local administrations achieve climate neutrality goals.  
 
@@ -40,9 +38,8 @@ IUAV, Venice (Italy) + Universidade de Lisboa, Lisbon (Portugal)
 **BSc in Urban and Regional Planning**  
 IUAV, Venice (Italy) + İstanbul Teknik Üniversitesi, Istanbul (Turkey)
 
-\end{center}
-
 \vfill
 
 *I confirm that I have read and understood the data protection notice for applicants and hereby consent to the processing of my personal data in accordance with EU Regulation No. 2016/679 and applicable national legislation.*
+
 
