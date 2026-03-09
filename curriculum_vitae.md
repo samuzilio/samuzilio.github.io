@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+\vfill
+
 \begin{center}
 
 My name is Samuele.  
@@ -43,6 +45,3 @@ IUAV, Venice (Italy) + İstanbul Teknik Üniversitesi, Istanbul (Turkey)
 \vfill
 
 *I confirm that I have read and understood the data protection notice for applicants and hereby consent to the processing of my personal data in accordance with EU Regulation No. 2016/679 and applicable national legislation.*
-
-
-
