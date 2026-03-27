@@ -1,7 +1,5 @@
 # Curriculum Vitae
 
-\vspace{5em}
-
 My name is Samuele.  
 I'm an Italian spatial data scientist passionate about GIS & programming.  
 I have 5+ years of experience in applied research and project management for the development of scalable, data-driven geospatial solutions.  
