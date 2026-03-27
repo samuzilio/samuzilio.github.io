@@ -8,8 +8,8 @@ I'm an Italian spatial data scientist passionate about GIS & programming.
 I have 5+ years of experience in applied research and project management for the development of scalable, data-driven geospatial solutions.  
 Currently, I work at [Eurac Research](https://www.eurac.edu/en/people/samuele-zilio) providing scientific consultancy to public authorities in the field of urban and regional planning for the clean energy transition. My main focus is on building and maintaining decision support system tools to assist local administrations achieve climate neutrality goals.  
 
-The best way to get a hold of me is via email: <u>samuelezilio95@gmail.com</u>.  
-You can also find me on GitHub: <u>https://github.com/samuzilio</u>.
+The best way to get a hold of me is via email: [samuelezilio95@gmail.com](mailto:samuelezilio95@gmail.com).  
+You can also find me on GitHub: [github.com/samuzilio](https://github.com/samuzilio).
 
 ---
 
