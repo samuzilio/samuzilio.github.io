@@ -22,7 +22,9 @@ jobs:
         run: |
           pandoc curriculum_vitae.md -o src/curriculum_vitae.pdf --pdf-engine=xelatex \
             "-V" "geometry:margin=1in" \
-            "-V" "pagestyle=empty"
+            "-V" "pagestyle=empty" \
+            "-V" colorlinks=true" \
+            "-V" urlcolor=blue"
 
       - name: Commit and push PDF
         run: |
