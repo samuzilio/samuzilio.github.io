@@ -4,7 +4,7 @@
 
 My name is Samuele.  
 I'm an Italian spatial data scientist passionate about GIS & programming.  
-I have 5+ years of experience in applied research and project management within highly multidisciplinary environment for the development of scalable, data-driven geospatial solutions, collaborating with both technical and non-technical stakeholders.  
+I have 5+ years of experience in applied research and project management within highly multidisciplinary environments for the development of scalable data-driven geospatial solutions, and a proven track record of collaboration with both technical and non-technical stakeholders.  
 
 Currently, I work at [Eurac Research](https://www.eurac.edu/en/people/samuele-zilio) providing scientific consultancy to public authorities in the field of urban and regional planning for the clean energy transition. My main focus is on building and maintaining decision support system tools to assist local administrations achieve climate neutrality goals.  
 
