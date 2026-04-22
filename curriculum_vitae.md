@@ -15,17 +15,21 @@ You can also find me on GitHub: [github.com/samuzilio](https://github.com/samuzi
 
 ## Work Experience
 
-*06/2024 – Ongoing*  
+*07/2024 – Ongoing*  
 **Researcher**  
 Eurac Research, Bolzano (Italy)  
 
-*05/2021 – 05/2024*  
+*06/2021 – 06/2024*  
 **Junior Researcher**  
 Eurac Research, Bolzano (Italy)  
 
-*09/2020 – 04/2021*  
+*09/2020 – 05/2021*  
 **Trainee**  
 Eurac Research, Bolzano (Italy)  
+
+*04/2019 – 06/2019*  
+**Trainee**  
+ILS - Research Institute for Regional and Urban Development, Dortmund (Germany) 
 
 ---
 
