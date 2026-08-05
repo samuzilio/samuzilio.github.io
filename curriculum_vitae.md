@@ -37,11 +37,11 @@ ILS - Research Institute for Regional and Urban Development, Dortmund (Germany)
 
 *2017 – 2020*  
 **MSc in Planning and Policies for Cities, Environment and Landscape**  
-IUAV, Venice (Italy) + Universidade de Lisboa, Lisbon (Portugal)  
+Università Iuav di Venezia, Venice (Italy) + Universidade de Lisboa, Lisbon (Portugal)  
 
 *2014 – 2017*  
 **BSc in Urban and Regional Planning**  
-IUAV, Venice (Italy) + İstanbul Teknik Üniversitesi, Istanbul (Turkey)
+Università Iuav di Venezia, Venice (Italy) + İstanbul Teknik Üniversitesi, Istanbul (Turkey)
 
 \vfill
 
